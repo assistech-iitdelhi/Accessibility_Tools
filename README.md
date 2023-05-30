@@ -32,5 +32,8 @@
 ## Command Line Tools
 
 -  [Powershell](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell), xterm, etc.
--  [Git for Windows](https://git-scm.com/download/win)  (PC) or Terminal (Linux/macOS)
+-  [Git for Windows](https://git-scm.com/download/win) (PC) or Terminal (Linux/macOS)
 
+## Math Content
+- [MathJax](https://www.mathjax.org/) - For rendering math in HTML/EPUB documents
+- [MathCAT](https://github.com/NSoiffer/MathCAT) - It provides accessible methods to read mathml content
