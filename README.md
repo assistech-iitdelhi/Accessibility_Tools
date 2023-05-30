@@ -1,4 +1,4 @@
-# # Tools Used for Making Documents Accessible
+# Tools Used for Making Documents Accessible
 
 ## Document Accessibility
 
