@@ -16,6 +16,14 @@
 - OCR tool for Text inside Images - [Tesseract OCR](https://tesseract-ocr.github.io/tessdoc/Downloads.html)
 - OCR Tool for Math Contnet Equations - [MathPixOCR API](https://docs.mathpix.com/%23introduction)
 
+| S.No. | Name of the tool    | Used for                                                                                                                                                        |
+|-------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Tesseract OCR       | An Opensource Tool for OCR of documents with multiple languages and form (provides less accuracy than other paid tools and don't have support for math content) |
+| 2     | Abby Finereader     | Provides offline recognition for most of roman scripts based content and other major languages                                                                  |
+| 3     | Infty Reader        | Provides offline Roman scripts content and Math Recognition                                                                                                     |
+| 4     | Google Cloud Vision | API based tool to convert various regional languages and handwritten content. Provided very good accuracy for images with low resolution as well                |
+| 5     | Mathpix             | An Online tool for recognizing Math and Chemical diagrams from PDFs. Provides good accuracy for Math, Headings and Tables detection                             |
+
 ## EPUB Remediation Tools
 
 -   EPUB Reader - [Thorium](https://www.edrlab.org/software/thorium-reader/)
